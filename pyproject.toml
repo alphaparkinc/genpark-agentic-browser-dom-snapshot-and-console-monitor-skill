@@ -1,0 +1,1 @@
+[project]\nname = "genpark-agentic-browser-dom-snapshot-and-console-monitor-skill"\nversion = "1.0.0"\ndescription = "Captures structured accessibility tree snapshots and intercepts runtime console logs for browser agents"\nreadme = "README.md"\nrequires-python = ">=3.9"\ndependencies = []\n
