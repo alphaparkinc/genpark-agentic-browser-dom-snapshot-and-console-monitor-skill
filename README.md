@@ -1,0 +1,1 @@
+# genpark-agentic-browser-dom-snapshot-and-console-monitor-skill\n\nCaptures structured accessibility tree snapshots and intercepts runtime console logs for browser agents.\n\n100% Python Standard Library implementation with zero external dependencies.
