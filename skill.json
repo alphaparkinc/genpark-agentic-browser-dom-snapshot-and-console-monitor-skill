@@ -1,0 +1,8 @@
+{
+  "name": "genpark-agentic-browser-dom-snapshot-and-console-monitor-skill",
+  "version": "1.0.0",
+  "description": "Captures structured accessibility tree snapshots and intercepts runtime console logs for browser agents",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
